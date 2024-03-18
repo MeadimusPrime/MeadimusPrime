@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/meadimusprime/LABURL)
+- [Active Directory Home Lab]([https://github.com/meadimusprime/LABURL](https://github.com/MeadimusPrime/ActiveDirectoryLab/tree/main))
 
 <h2>📃 Certifications</h2>
 
