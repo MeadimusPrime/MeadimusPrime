@@ -7,6 +7,7 @@
 <h2>📃 Certifications</h2>
 
 - [ISC2 Certified in Cybersecurity](LINK_TO_CERT)
+- [ISC2 Certified in Cybersecurity](https://imgur.com/a/YHjRhgH)
 
 <h2>📺 Popular YouTube Videos</h2>
 
