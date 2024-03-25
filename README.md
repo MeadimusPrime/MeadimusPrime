@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Detection Lab](https://github.com/StevenMead/Detection-Lab/tree/main)
 - [Active Directory Home Lab](https://github.com/MeadimusPrime/ActiveDirectoryLab/tree/main)
 
 <h2>📃 Certifications</h2>
